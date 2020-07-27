@@ -3,5 +3,5 @@ package gomodulo
 import "fmt"
 
 func Version(){
-   fmt.Println("Version 2.0.0");
+   fmt.Println("Version 2.11111111111.0");
 }
